@@ -36,4 +36,4 @@ The docking study was performed successfully using AutoDock 4. Binding affinity 
 - AutoDock 4 Documentation
 
 ## 👩‍💻 Author
-**Seha**
+**Shifa**
